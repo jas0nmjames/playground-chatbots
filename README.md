@@ -10,7 +10,7 @@ This is a playground to experiment with chatbots and live chat: traditional dial
 
 | Font | How It's Used Here | Comments |
 | --- | --- | --- |
-|[Redacted Script](https://fonts.google.com/specimen/Redacted+Script)| For fun! | |
+| [Redacted Script](https://fonts.google.com/specimen/Redacted+Script) | For fun! | |
 | [Zilla Slab Highlight](https://fonts.google.com/specimen/Zilla+Slab+Highlight) |
 | [Lexend](https://fonts.google.com/specimen/Lexend) | body, h1, h2, h3, h4, h5, h6 | Lexend is "a variable font empirically shown to significantly improve reading-proficiency". - [LXND](https://www.lexend.com/) |
 | Bungee | | |
