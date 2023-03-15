@@ -33,3 +33,16 @@ font-family: 'Space Mono', monospace;
 ```
 
 See Google Fonts' [FAQs](https://developers.google.com/fonts/faq) for more information.
+
+## Appendix
+
+### Live Chat Software List
+
+- [Olark](https://www.olark.com/)
+- [Tawk.to](https://www.tawk.to/) - free
+- [chaport](https://www.chaport.com/)
+- Zendesk - has preconfigurations to connect to Watson Assistant
+- [Sendbird](https://sendbird.com/) - in app
+- [Tidio](https://www.tidio.com/)
+
+Another idea: [Integrate a custom live agent with IBM Watson Assistant](https://developer.ibm.com/tutorials/integrate-a-custom-live-agent-with-ibm-watson-assistant/)
